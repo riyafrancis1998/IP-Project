@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EVeDgMMCximbyooji/videoblocks-abstract-background-with-blue-molecule-structure-low-poly-4k-motion-graphics_shwtbi4_thumbnail-full01.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+}
+
+.navbar-inverse {
+    background-color: #2A383D;
+}
+
+.form_bg {
+    background-color:#E1EEF2;
+    color:#666;
+    padding:20px;
+    border-radius:10px;
+    position: absolute;
+    border:2px solid black;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    height: 400px;
+}
+.align-center {
+    text-align:center;
+}
+
+
+#A{
+    color:black;
+}
+a{
+    /*text-decoration:underline;*/
+}
+#bottom-align-text{
+    position:absolute;
+    bottom:0;
+    right:0
+}
